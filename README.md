@@ -1,4 +1,6 @@
+
 # testvue
+用来测试一loocalStorage 的一个小例子
 
 > A Vue.js project
 
